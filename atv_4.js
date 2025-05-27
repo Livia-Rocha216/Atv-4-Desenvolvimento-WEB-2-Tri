@@ -7,11 +7,11 @@
 // Exibição (console.log())
 
 let nome = "MoonBe"
-let ano_nascimento = 2012
+let ano_nascimento = 2011
 
 let idade = 2025 - ano_nascimento
 
-if(nome == "MoonBe" && ano_nascimento == 2012){
+if(nome == "MoonBe" && ano_nascimento == 2011){
     console.log("-------------")
     console.log("Nome: ", nome)
     console.log("Idade: ", idade)
