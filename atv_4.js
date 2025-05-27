@@ -21,3 +21,4 @@ if(nome == "MoonBe" && ano_nascimento == 2011){ // Condicional SE (if) o nome fo
 else{
     console.log("Da o fora daqui >:c") // Fim da condicional, SE NÃO (else) [...], mensagem pra te expulsar.
 }
+// Eu usei minha amiga de cobaia, ela não sabe shhhhh segredo >:)
